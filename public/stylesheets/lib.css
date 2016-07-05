@@ -119,3 +119,9 @@ main {
 .new-comment input[type="text"] {
   width: 100%;
 }
+#landing {
+  background-image: url('/assets/images/mypic.jpg');
+  background-size: covers;
+  height:100vh;
+  }
+
